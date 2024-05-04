@@ -4,6 +4,7 @@ const assert = require('assert')
 
 eval(fs.readFileSync('code.js')+'');
 
+// only code taken from geeksforgeeks to use in testing was this function
 function isPrime(n) { 
     if (n <= 1) return false 
     for (let i = 2; i < n; i++) 
