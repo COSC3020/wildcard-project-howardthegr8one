@@ -44,6 +44,6 @@ I attempted to recreate Dr. Kotthoff's slides when he compared the different run
 I decided this was good enough to show the differences in runtimes for these three algorithms. I also spent a few hours attempting to track memory usage for each algorithm to compare those as well, however memory usage in javascript can be difficult to track accurately without using hack-y workarounds and I eventually scrapped the memory comparison entirely. 
 Below are scatter plots showing the comparison between the two properly implemented Trial Division and Sieve of Eratosthenes algorithm runtimes, and the second plot compares these to my poor Dijkstra implementation. 
 
-![trialNsieve](\algorithms\wildcardProject\trialNsieve.png)
+![trialNsieve](https://github.com/COSC3020/wildcard-project-howardthegr8one/blob/main/trialNsieve.png)
 
-![allThree](algorithms\wildcardProject\allThree.png)
+![allThree](https://github.com/COSC3020/wildcard-project-howardthegr8one/blob/main/allThree.png)
